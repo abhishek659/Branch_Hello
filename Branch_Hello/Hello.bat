@@ -1,1 +1,1 @@
-iecho "Hello World : %time: : %date:"
+iecho "Iam in fearure"
